@@ -7,4 +7,5 @@
 91_with_luminosity_alt.ipynb uses different luminosity values
 
 fulldata_no_lum.ipynb has data from all four years but does not take account luminosity (because luminosity values are only available for 1991)
+This one has no notes yet. Just wanted to see what it would look like
 
