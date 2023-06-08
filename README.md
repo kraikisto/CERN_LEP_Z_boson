@@ -8,3 +8,8 @@
 
 fulldata_no_lum.ipynb has data from all four years using the invariant mass method. The previous only use data from 1991 since I dont have luminosity values for the other years.
 
+complexities.ipynb analyses time complexies and space complexities with some basic examples and explanations
+
+cosmic_rays.ipynb plots the phi values to check for consmic rays (needs physics explanation)
+
+Spin.ipynb plots cross-section as a functioin of cos(theta) to find out the spin of the particle (needs physics explanation)
