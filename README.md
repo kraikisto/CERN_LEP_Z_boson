@@ -15,3 +15,5 @@ complexities.ipynb analyses time complexies and space complexities with some bas
 cosmic_rays.ipynb plots the phi values to check for consmic rays (needs physics explanation).
 
 Spin.ipynb plots cross-section as a functioin of cos(theta) to find out the spin of the particle (needs physics explanation).
+
+pandas_speed.ipynb explains why and when pandas is faster than normal loops and shows by how much in graphs of runtime measurements
