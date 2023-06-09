@@ -2,6 +2,8 @@
 
 .csv files are the datafiles
 
+.png files are pictures for the notebooks
+
 91_with_luminosity.ipynb contains the plotting/fitting for data from 1991, where we plot number of events of each ECM value, normalised by luminosity.
 
 91_with_luminosity_alt.ipynb uses luminosity values from a different source (which in this case actually do better).
