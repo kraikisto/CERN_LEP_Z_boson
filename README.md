@@ -4,11 +4,11 @@
 
 .png files are pictures for the notebooks
 
-91_with_luminosity.ipynb contains the plotting/fitting for data from 1991, where we plot number of events of each ECM value, normalised by luminosity.
+fulldata_invariant_mass.ipynb has data from all four years and we find Z boson using the invariant mass method.
 
-91_with_luminosity_alt.ipynb uses luminosity values from a different source (which in this case actually do better).
+91_line_width_fit.ipynb contains the plotting/fitting for data from 1991, where we find Z boson by plotting number of events of each ECM value, normalised by luminosity (aka line width fit) .
 
-fulldata_no_lum.ipynb has data from all four years using the invariant mass method. The previous only use data from 1991 since I don't have luminosity values for the other years.
+91_line_width_fit_alt.ipynb uses luminosity values from a different source (which in this case actually do better).
 
 complexities.ipynb analyses time complexies and space complexities with some basic examples and explanations.
 
