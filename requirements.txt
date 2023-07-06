@@ -2,3 +2,5 @@ pandas
 matplotlib
 numpy
 scipy
+tracemalloc
+time
