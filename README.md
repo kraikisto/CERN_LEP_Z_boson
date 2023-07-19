@@ -8,7 +8,7 @@ fulldata_invariant_mass.ipynb has data from all four years and we find Z boson u
 
 91_line_width_fit.ipynb contains the plotting/fitting for data from 1991, where we find Z boson by plotting number of events of each ECM value, normalised by luminosity (aka line width fit) .
 
-91_line_width_fit_alt.ipynb uses luminosity values from a different source (which in this case actually do better).
+91_line_width_fit_alt.ipynb uses hadron data to do the same
 
 complexities.ipynb analyses time complexies and space complexities with some basic examples and explanations.
 
