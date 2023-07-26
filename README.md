@@ -6,7 +6,9 @@
 
 fulldata_invariant_mass.ipynb has data from all four years and we find Z boson using the invariant mass method.
 
-91_line_width_fit.ipynb contains the plotting/fitting for data from 1991, where we find Z boson by plotting number of events of each ECM value, normalised by luminosity (aka line width fit) .
+91_line_width_fit.ipynb contains the plotting/fitting for data from 1991, where we find Z boson by plotting number of events of each ECM value, normalised by luminosity (aka line width fit) 
+
+BW_proof.ipynb provides derivations for both relativistic and non-relativistic Breit-Wigner distribution
 
 91_line_width_fit_alt.ipynb uses hadron data to do the same
 
