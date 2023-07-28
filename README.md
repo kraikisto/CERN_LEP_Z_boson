@@ -1,5 +1,7 @@
 # CERN_LEP_Z_boson
 
+### full_ex.ipynb is the full exercise made using the other .ipynb files. 
+
 .csv files are the datafiles
 
 .png files are pictures for the notebooks
@@ -20,6 +22,6 @@ Spin.ipynb plots cross-section as a functioin of cos(theta) to find out the spin
 
 pandas_speed.ipynb explains why and when pandas is faster than normal loops and shows by how much in graphs of runtime measurements.
 
-full_ex.ipynb is the full exercise made using the other .ipynb files. 
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kraikisto/CERN_LEP_Z_boson/HEAD)
