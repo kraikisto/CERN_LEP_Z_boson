@@ -2,6 +2,8 @@
 
 ### full_ex.ipynb is the full exercise made using the other .ipynb files. 
 
+### Exercise1-4 are university style exercises made from the full_ex 
+
 .csv files are the datafiles
 
 .png files are pictures for the notebooks
